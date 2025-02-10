@@ -6,7 +6,7 @@ I'm **Diogo**, a **Master's student in Robotics and Digital Systems** at **NOVA 
 I’m passionate about **robotics**, **artificial intelligence**, and **software development**. Currently, I'm finishing my **dissertation** in **VRP(Vehicle Route Problem)** using **machine learning** and **metaheuristics** algorithms. With a strong background in both **front-end** and **back-end** development, I’m excited to create **innovative solutions** and contribute to **open-source** projects.
 
 #### "It's kind of fun to do the impossible" - Walt Disney
-___
+
 
 ## 🌐 **Connect with Me**
 
@@ -22,7 +22,7 @@ ___
     </a>
 </div>  
 
-___
+
 ## 💻 Technical Skills: 
 ###  🌇 **Front-End:**
 
@@ -108,10 +108,31 @@ ___
 
 ## 🔭 I’m currently working on...
 
- - ### 🎓 Dissertation
+  ### 🎓 Dissertation
 
- - ### 👨‍💻 Freelancer
+  ### 👨‍💻 Green Corner House Website - Freelancer
 
+## 🎓 Educational Background
+ ### Bachelor in Electrical and Computer Engineering
+- 🏫 **Institution**: NOVA - School of Science and Technology
+- 2019-2023
 
+### Masters in Robotics and Digital Systems
+- 🏫 **Institution**: NOVA - School of Science and Technology
+- 2023-2025
 
+### Web Development using Python and JavaScript
+- 🏫 **Institution**: CS50-Harvard Online
+- 2020-2020
 
+### Introduction to Artificial Intelligence with Python
+- 🏫 **Institution**: CS50-Harvard Online
+- 2021-2021
+
+### Full-Stack Carreer Path
+- 🏫 **Institution**: Codeacademy
+- 2023-2023
+
+### Microservices with Nodejs and React  
+- 🏫 **Institution**: Udemy - Stephen Grider
+- 2024-2024
