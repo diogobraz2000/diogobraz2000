@@ -11,14 +11,9 @@ I’m passionate about **robotics**, **artificial intelligence**, and **software
 ## 🌐 **Connect with Me**
 
 <div style={display:flex}>
-    <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="image-1.png" width="40" height="40">
-    </a>
-    <a href="https://www.linkedin.com/in/yourprofile">
+   
+    <a href="https://www.linkedin.com/in/diogo-miguel-braz-8339271a0/">
     <img src="image-2.png" width="40" height="40">
-    </a>
-    <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="image-3.png" width="40" height="40">
     </a>
 </div>  
 
