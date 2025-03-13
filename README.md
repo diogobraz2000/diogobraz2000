@@ -1,4 +1,4 @@
-![page image](image.png)
+
 # Hi there 👋
 ## My name is **Diogo Miguel Braz**
 
